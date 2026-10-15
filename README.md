@@ -41,8 +41,8 @@ weather-app/
 
 1. **Clone le dépôt** :
    ```bash
-   git clone https://github.com/ton-pseudo/weather-app.git
-   cd weather-app
+   git clone https://github.com/tahiri-devv/Weather-App.git
+   cd Weather-App
    ```
 
 2. **Obtiens une clé API gratuite** sur [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
@@ -81,4 +81,4 @@ Ce projet est sous licence MIT. Tu peux l'utiliser et le modifier librement.
 
 ## 👤 Auteur
 
-Créé par **Ton Nom** — [GitHub](https://github.com/ton-pseudo)
+Créé par **Mohamed Tahiri** — [GitHub](https://github.com/tahiri-devv)
